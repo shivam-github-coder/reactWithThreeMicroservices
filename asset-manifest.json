@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactWithThreeMicroservices/static/css/main.47051722.chunk.css",
+    "main.js": "/reactWithThreeMicroservices/static/js/main.e6008d7a.chunk.js",
+    "main.js.map": "/reactWithThreeMicroservices/static/js/main.e6008d7a.chunk.js.map",
+    "runtime-main.js": "/reactWithThreeMicroservices/static/js/runtime-main.d702ca25.js",
+    "runtime-main.js.map": "/reactWithThreeMicroservices/static/js/runtime-main.d702ca25.js.map",
+    "static/js/2.507e23b4.chunk.js": "/reactWithThreeMicroservices/static/js/2.507e23b4.chunk.js",
+    "static/js/2.507e23b4.chunk.js.map": "/reactWithThreeMicroservices/static/js/2.507e23b4.chunk.js.map",
+    "static/js/3.832513f8.chunk.js": "/reactWithThreeMicroservices/static/js/3.832513f8.chunk.js",
+    "static/js/3.832513f8.chunk.js.map": "/reactWithThreeMicroservices/static/js/3.832513f8.chunk.js.map",
+    "index.html": "/reactWithThreeMicroservices/index.html",
+    "static/css/main.47051722.chunk.css.map": "/reactWithThreeMicroservices/static/css/main.47051722.chunk.css.map",
+    "static/js/2.507e23b4.chunk.js.LICENSE.txt": "/reactWithThreeMicroservices/static/js/2.507e23b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d702ca25.js",
+    "static/js/2.507e23b4.chunk.js",
+    "static/css/main.47051722.chunk.css",
+    "static/js/main.e6008d7a.chunk.js"
+  ]
+}
