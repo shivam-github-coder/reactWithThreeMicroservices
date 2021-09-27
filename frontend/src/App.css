@@ -1,0 +1,14 @@
+.navbar-brand{
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+.imgDemo{
+    width: 30em;
+    height: 20em;
+}
+.NewOrderImg{
+    width: 20em;
+    height: 15em;
+    border-top-left-radius: 120px;
+    border-bottom-left-radius: 120px;
+}
